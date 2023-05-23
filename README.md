@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando como Analista de Suporte Bilingue Pleno 
-- 🌱 Estudando "Escola do Front-End" na Alura (cursos voltados ao Front-End)
+- 🌱 Estudante de Sistemas de Informação e "Escola do Front-End" na Alura (cursos voltados ao Front-End)
 - 👯 Buscando uma oportunidade de estágio em programação Front-End
 - 😄 Pronouns: Ele/Dele
 
